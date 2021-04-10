@@ -1,5 +1,5 @@
 - 👋 Buenas, bienvenido a mi GITHUB
-Aquí pondré algunos de mis aportes, como mi biblioteca personal de scripts y modulos
+Aquí pondré algunos de mis aportes, como mi biblioteca personal de scripts y modulos de programación.
 
 Saludos!
 
